@@ -36,9 +36,7 @@ A simple web-based interface for sending transactions and viewing transaction hi
 3. Submit the form to simulate sending a transaction.
 4. Click "View Transaction History" to see previous transactions (local simulation).
 
-## Screenshot
 
-*(Include a screenshot of the interface here if possible.)*
 
 ## Folder Structure
 
